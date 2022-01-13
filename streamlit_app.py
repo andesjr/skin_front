@@ -13,8 +13,8 @@ st.title("Skin Disease Detection")
 
 IMAGE_SHAPE = (128, 128)  # must be the same as the input of the trained model
 
-#api_url = sys.argv[1]+'/predict'
-api_url = 'http://localhost:8000' + '/predict'
+api_url = 'https://skincancer-r5elmwbdhq-ew.a.run.app/predict'
+#api_url = 'http://localhost:8000' + '/predict'
 
 print(api_url)
 logo = Image.open("logo.png")
