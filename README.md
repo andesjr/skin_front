@@ -1,8 +1,8 @@
 # Data analysis
-- Document here the project: minimal_image_project_front
-- Description: Project Description
-- Data Source:
-- Type of analysis:
+- Document here the project: Skin Cancer Classifier Front End Part
+- Description: Skin Cancer Classifier application for patients
+- Data Source: Kaggle Challenge HAM10000
+- Type of analysis: Deep Learning model that trained and then plugged into an API that is used by an Streamlite application.
 
 Please document the project the better you can.
 
